@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+// Du forutseter at alle + > operatorer er implementert som ønsket, 
+//for hver type som skal bli brukt av pair
 template <typename a, typename b> 
 class Pair{
     public:

@@ -9,4 +9,4 @@ int main(){
     cout << "back " <<vec.back() << endl;
     vec.emplace(vec.begin()+ 1, 8.0);
     cout << "front " <<vec.front() << endl;
-}   
+}
